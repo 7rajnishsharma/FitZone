@@ -22,3 +22,4 @@ The website is organized into several sections, including a home section, about 
 I welcome contributions to this repository! If you find a bug or have an idea for a new feature, please submit an issue on GitHub. If you would like to contribute code, please fork the repository and submit a pull request with your changes. Please ensure that your code follows the project's coding standards and is well-documented.
 
 ## Glimpse
+![webSS](https://user-images.githubusercontent.com/111423953/235287142-ec304f7e-3eda-41be-aed0-e52836d3625f.jpeg)
